@@ -1,5 +1,3 @@
-url: "http://moovweb.github.com/uranium/"
-source: "examples/site"
-destination: "examples/site/_site"
+production_url: "http://moovweb.github.com/uranium/"
 auto: true
 pygments: true
